@@ -1,1 +1,1 @@
-# Some Small projects using and testing hooks
+# Some Small projects using and testing hooks in React
